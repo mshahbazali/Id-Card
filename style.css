@@ -1,0 +1,46 @@
+.main {
+    margin: 0 auto;
+    /* display: inline-block; */
+    /* display: flex; */
+    /* justify-content: space-around; */
+    /* flex-direction: row; */
+    width: 30rem;
+    border: 2px solid black;
+    /* padding-top: 2rem; */
+    margin-top: 10rem;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+}
+
+.top {
+    background-color: #002855;
+    /* width: 100%; */
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* margin-top: -1.4rem; */
+    /* height: 4rem; */
+    padding: 1px 0rem;
+    font-size: 0.8rem;
+    margin-bottom: 1.9rem;
+}
+
+
+.image>img {
+    width: 7rem;
+    border: 2px solid black;
+    margin-top: 0.4rem;
+    margin-left: -3rem;
+}
+
+p {
+    font-size: 1rem;
+    /* text-align: center; */
+    margin-top: -0.5rem;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
